@@ -1,0 +1,10 @@
+[user]
+	name = eunmo
+	email = eunmo@cs.stanford.edu
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+[core]
+	editor = vim
